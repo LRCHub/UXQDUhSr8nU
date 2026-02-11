@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "シネマ / 星街すいせい×奏手イヅル×アステル･レダ(Cover)",
+  "base_artist": "Hoshimachi Suisei",
+  "createdAt": "2026-02-11T05:58:37.298499Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シネマ",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/01_シネマ_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シネマ",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/02_シネマ_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シネマ",
+      "artist": "Ayase / YOASOBI",
+      "has_synced": true,
+      "path": "select/03_シネマ_Ayase___YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ニュー・シネマ・パラダイス(『ニュー・シネマ・パラダイス』より)",
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "has_synced": false,
+      "path": "select/04_ニュー・シネマ・パラダイス(『ニュー・シネマ・パラダイス』より)_The_City_of_Prague_Philharmonic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ピューパ・シネマ",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/05_ピューパ・シネマ_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シネマ / Ayase (self cover)",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/06_シネマ___Ayase_(self_cover)_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シネマ (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&KAITO)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/07_シネマ_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&KAITO)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "オールド・シネマ・ユートピア",
+      "artist": "yukina，みぃ",
+      "has_synced": true,
+      "path": "select/08_オールド・シネマ・ユートピア_yukina,みぃ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "シネマ / 歌ってみた【松本吉弘＆緑仙】",
+      "artist": "松本吉弘-まつもとぐみ",
+      "has_synced": false,
+      "path": "select/09_シネマ___歌ってみた【松本吉弘&緑仙】_松本吉弘-まつもとぐみ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cinema / シネマ",
+      "artist": "Hoshimachi Suisei, Astel Leda, Izuru Kanade",
+      "has_synced": false,
+      "path": "select/pl_01_Cinema___シネマ_Hoshimachi_Suisei,_Astel_Leda,_Izuru_Kanade.txt"
+    }
+  ]
+}
